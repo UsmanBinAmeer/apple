@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 14px;
+}
+header nav ul li{
+    display: inline;
+margin-left: 40px;
+}
+.sub-nav{
+    background-color: aliceblue;
+text-align: center;
+padding: 12px}
+
+.sub-nav span{
+    color: blue;
+}

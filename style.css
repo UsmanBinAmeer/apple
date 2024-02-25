@@ -1,0 +1,131 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: black;
+color: white;
+text-align: center;
+padding: 14px;
+
+}
+header nav ul li{
+    display: inline;
+    margin-left: 40px;
+}
+.sub-nav{
+    background-color: aliceblue;
+text-align: center;
+display: flow-root;
+}
+.sub-nav span{
+    color: blue;
+}
+.hero{
+    text-align: center;
+padding-top: 30px;
+}
+.hero h1{
+    margin-bottom: 30px;
+}
+.link{
+    margin-top: 12px;
+}
+.link a {
+    margin: 10px;
+} 
+.secound{
+    background-color: black;
+    color: white;
+    height: 70vh;
+    text-align: center;
+    padding-top: 40px;
+}
+.secound h1{
+    margin-bottom: 6px;
+}
+.secound h5{
+    margin: 15px;
+}
+.secound img{
+    width:700px ;
+}
+.main{
+    display: flex;
+    margin: 10px;
+}
+
+.box{
+    width: 49%;
+    background-color: black;
+    color: white;
+margin: 3px;
+text-align: center;
+padding-top: 16px;
+margin-top: 25px;
+}
+.box img{
+    width: 600px;
+}
+.outer{
+    display: flex;
+    margin: 8px;
+
+}
+.box2{
+    text-align: center;
+    color: black;
+    padding-top: 12px;
+    margin: 12px;
+}
+.box2 img{
+    width: 600px;
+}
+
+.box3{
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 12px;
+    margin: 8px;
+}
+.box3 img{
+    width: 600px;
+
+}
+.ipad{
+    background-color: aliceblue;
+    display: flex;
+}
+.first{
+    width: 50%;
+    padding: 22px;
+}
+.ipadtext{
+    padding-top: 12%;
+    text-align: center;
+    background-color: aliceblue;
+    width: 50%;
+    color: black;
+}
+.button{
+    margin-top: 12px;
+}
+.button button{
+    border: 2px solid grey;
+    padding: 14px;
+border-radius: 30px;
+}
+.main-footer{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: black;
+}
+
+
